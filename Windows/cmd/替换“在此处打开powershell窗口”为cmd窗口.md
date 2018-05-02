@@ -11,6 +11,8 @@
 5、注册表左侧定位到以下注册表键值：HKCR\Directory\Directory\shell\cmd  <br>
 6、将右侧 HideBasedOnVelocityId 数值数据改成：0 ，  <br>
 7、新建 ShowBasedOnVelocityId 类型为 DWORD，基数为 16进制，数值数据为 639bc8  <br>
-### 以下为隐藏 "在此处打开powershell窗口"
+#### 以下为隐藏 "在此处打开powershell窗口"
 8、定位到以下注册表键值：HKCR\Directory\Background\shell\Powershell 和 HKCR\Directory\Directory\shell\Powershell  <br>
 9、新建 HideBasedOnVelocityId 类型为 DWORD，基数为 16进制，数值数据为 639bc8   <br>
+
+# 注：修改这些键值需要相应的权限
