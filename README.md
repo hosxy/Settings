@@ -12,7 +12,7 @@
      * [禁止运行指定的Windows应用程序](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/禁止运行指定的Windows应用程序.md)
      
    * ### 输入法
-     * [Weasel输入法(Rime)生僻字过滤]（https://github.com/hosxy/Settings/blob/master/Windows/Input%20method/Weasel输入法(Rime)生僻字过滤.md）
+     * [Weasel输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Windows/Input%20method/Weasel输入法(Rime)生僻字过滤.md)
     
    
   
