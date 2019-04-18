@@ -10,7 +10,7 @@
      
    * ### 组策略
      * [禁止运行指定的 Windows 应用程序](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/禁止运行指定的Windows应用程序.md)
-     * [禁止 Windows 10自动更新](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/禁止Windows 10自动更新.md)
+     * [禁止 Windows 10自动更新](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/禁止Windows10自动更新.md)
      
    * ### 输入法
      * [Weasel 输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Windows/Input%20method/Weasel输入法(Rime)生僻字过滤.md)
