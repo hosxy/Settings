@@ -7,6 +7,7 @@
      
    * ### 网络
      * [关闭 Windows 网络连接状态指示器活动测试](https://github.com/hosxy/Settings/blob/master/Windows/Internet/关闭Windows网络连接状态指示器活动测试.md)
+     * [为UWP应用开启本地回环访问权限](https://github.com/hosxy/Settings/blob/master/Windows/Internet/%E4%B8%BAUWP%E5%BA%94%E7%94%A8%E5%BC%80%E5%90%AF%E6%9C%AC%E5%9C%B0%E5%9B%9E%E7%8E%AF%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90.md)
      
    * ### 组策略
      * [禁止运行指定的 Windows 应用程序](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/禁止运行指定的Windows应用程序.md)
