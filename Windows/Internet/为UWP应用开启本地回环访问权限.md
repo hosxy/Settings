@@ -29,7 +29,8 @@ CheckNetIsolation.exe -c
 ```
 CheckNetIsolation.exe LoopbackExempt -s
 ```
-可以看出这些命令这关键的参数就是uwp应用的 SID 或者 PackageFamilyName。下面介绍如何获取 SID 和 PackageFamilyName。
+
+**可以看出这些命令这关键的参数就是uwp应用的 SID 或者 PackageFamilyName。下面介绍如何获取 SID 和 PackageFamilyName。**
 
 ## 5、获取 UWP 应用的 SID 或者 PackageFamilyName
 
