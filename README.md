@@ -4,6 +4,7 @@
    * ### cmd
      * [彩色 PROMP](https://github.com/hosxy/Settings/blob/master/Windows/cmd/彩色PROMPT.md)
      * [替换“在此处打开 powershell 窗口”为 cmd 窗口](https://github.com/hosxy/Settings/blob/master/Windows/cmd/替换“在此处打开powershell窗口”为cmd窗口.md)
+     * [批处理脚本命令行参数超过10个.md](https://github.com/hosxy/Settings/blob/master/Windows/cmd/%E6%89%B9%E5%A4%84%E7%90%86%E8%84%9A%E6%9C%AC%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0%E8%B6%85%E8%BF%8710%E4%B8%AA.md)
      
    * ### 网络
      * [关闭 Windows 网络连接状态指示器活动测试](https://github.com/hosxy/Settings/blob/master/Windows/Internet/关闭Windows网络连接状态指示器活动测试.md)
