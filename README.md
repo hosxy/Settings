@@ -15,12 +15,12 @@
      * [禁止运行指定的 Windows 应用程序](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/禁止运行指定的Windows应用程序.md)
      * [禁止 Windows 10 自动更新](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/禁止Windows10自动更新.md)
      
-   * ### 输入法
-     * [Weasel 输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Windows/Input%20method/Weasel输入法(Rime)生僻字过滤.md)
-    
-   
   
 ## Firefox 
   [关闭 Firefox 示网络认证](https://github.com/hosxy/Settings/blob/master/Firefox/关闭Firefox提示网络认证.md)
+  
+
+## Rime 输入法
+  [Weasel 输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Rime/Weasel%E8%BE%93%E5%85%A5%E6%B3%95(Rime)%E7%94%9F%E5%83%BB%E5%AD%97%E8%BF%87%E6%BB%A4.md)
   
   
