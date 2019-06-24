@@ -17,7 +17,7 @@
      
   
 ## Firefox 
-  [关闭 Firefox 示网络认证](https://github.com/hosxy/Settings/blob/master/Firefox/关闭Firefox提示网络认证.md)
+  [关闭 Firefox 提示网络认证](https://github.com/hosxy/Settings/blob/master/Firefox/关闭Firefox提示网络认证.md)
   
 
 ## Rime 输入法
