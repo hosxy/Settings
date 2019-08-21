@@ -28,7 +28,7 @@ patch:
 然后重新部署输入法。然后在打字是不是发现那些生僻字已经没有了。
 
 ## emoji 支持
-如果你同时用了 emoji 支持的话，上面的方案同时也会把 emoji 过滤掉，毕竟 emoji 不在 GBK 的范围之内。如果需要启用GBK过滤的同时，保留emoji，需要略微修改下配置文件，使用`charset_filter@gbk+emoji` 来替代`charset_filter@gbk`,顽症内容如下：
+如果你同时用了 emoji 支持的话，上面的方案同时也会把 emoji 过滤掉，毕竟 emoji 不在 GBK 的范围之内。如果需要启用GBK过滤的同时，保留emoji，需要略微修改下配置文件，使用`charset_filter@gbk+emoji` 来替代`charset_filter@gbk`,完整内容如下：
 ``` yaml
 patch:
    
