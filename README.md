@@ -18,7 +18,7 @@
   
 ## Firefox 
   [关闭 Firefox 提示网络认证](https://github.com/hosxy/Settings/blob/master/Firefox/关闭Firefox提示网络认证.md)
-  
+  [去掉扩展和主题界面的推荐](https://github.com/hosxy/Settings/blob/master/Firefox/%E5%8E%BB%E6%8E%89%E6%89%A9%E5%B1%95%E5%92%8C%E4%B8%BB%E9%A2%98%E7%95%8C%E9%9D%A2%E7%9A%84%E6%8E%A8%E8%8D%90.md)
 
 ## Rime 输入法
   [Weasel 输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Rime/Weasel%E8%BE%93%E5%85%A5%E6%B3%95(Rime)%E7%94%9F%E5%83%BB%E5%AD%97%E8%BF%87%E6%BB%A4.md)
