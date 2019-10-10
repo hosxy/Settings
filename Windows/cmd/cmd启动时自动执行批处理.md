@@ -1,6 +1,6 @@
 有时候我们希望 cmd 启动的时候就能执行一条或者多条命令，但是 cmd 又没有 linux 下类似 `profile` `bashrc`这种东西。 <br>
 
-其实 cmd 也有个类似的东西，命令提示符窗口下输入 `cmd /?` 打开 cmd 帮助，向下翻，你会发现会搜索注册表的两个键值，并执行这两个键值对应的命令。这两个键值是：
+其实 cmd 也有个类似的东西，命令提示符窗口下输入 `cmd /?` 打开 cmd 帮助，向下翻，你会发现 cmd 启动的时候会搜索注册表的两个键值，并执行这两个键值对应的命令。这两个键值是：
 ```
 HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor\AutoRun
 HKEY_CURRENT_USER\Software\Microsoft\Command Processor\AutoRun
