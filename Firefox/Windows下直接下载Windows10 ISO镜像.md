@@ -7,6 +7,7 @@
 可以看出如果你的操作系统是 Windows 微软就不让你直接下载 ISO 镜像，非要用他们家的 MediaCreationTool。然后这就涉及怎么判断是什么操作系统，
 经测试微软应该是根据浏览器UA(UserAgent)来判断操作系统的，所以改下UA就行了(我这里用了 Firefox 自带的响应设计模式，当然你也可以安装个改UA的扩展来实现)。
 
+具体操作步骤如下：
 1. 打开 [windows10官方下载地址](https://www.microsoft.com/zh-cn/software-download/windows10)
 2. 打开菜单，然后依次选择 `Web开发者 -> 响应设计模式`,或者直接按 `Ctrl + Shift + M` 打开，再按一遍就可以关掉
 3. 然后书签栏下面会有一行，然后设备选 `Kindle Fire HDX`，选其他也可以，只要不是搭载 Windows 的设备就行，然后刷新网页。
