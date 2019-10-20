@@ -1,7 +1,7 @@
 VirtualBox 默认的设备产品名称是 VirtualBox ，有时候想改下这个名字，然后发现图形界面好像没这个功能。然后到网上搜了一下，用命令行可以改，比如：
 ```
-VBoxManage setextradata "<Your VM name>" "VBoxInternal/Devices/pcbios/0/Config/DmiSystemVendor"      "Hasee"
-VBoxManage setextradata "<Your VM name>" "VBoxInternal/Devices/pcbios/0/Config/DmiSystemProduct"     "ThinZ7-CT5NA"
+VBoxManage setextradata "<Your VM name>" "VBoxInternal/Devices/pcbios/0/Config/DmiSystemVendor" "Hasee"
+VBoxManage setextradata "<Your VM name>" "VBoxInternal/Devices/pcbios/0/Config/DmiSystemProduct" "ThinZ7-CT5NA"
 ```
 `DmiSystemProduct` 代表设备名称，`DmiSystemVendor`代表生产厂家名称
 
