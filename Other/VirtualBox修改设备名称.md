@@ -5,4 +5,4 @@ VBoxManage setextradata "<Your VM name>" "VBoxInternal/Devices/pcbios/0/Config/D
 ```
 `DmiSystemProduct` 代表设备名称，`DmiSystemVendor`代表生产厂家名称
 
-**Tips：最好在安装系统之前就改，我试过安装完 Windows 10 后再修改虚拟机会没法启动，而修改后再安装则没问题，不知道是不是偶然，我也懒得求证了。**
+**Tips：最好在安装系统之前就改，我试过安装完 Windows 10 后再修改，虚拟机会没法启动，而修改后再安装则没问题，不知道是不是偶然，我也懒得求证了。**
