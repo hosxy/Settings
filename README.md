@@ -22,6 +22,7 @@
   + [Firefox69 及以上开启 userChrome.css 支持](https://github.com/hosxy/Settings/blob/master/Firefox/Firefox69%E4%BB%A5%E4%B8%8A%E5%BC%80%E5%90%AFuserChrome.css%E6%94%AF%E6%8C%81.md)
   + [调整 Firefox 界面缩放比例](https://github.com/hosxy/Settings/blob/master/Firefox/%E8%B0%83%E6%95%B4Firefox%E7%95%8C%E9%9D%A2%E7%BC%A9%E6%94%BE%E6%AF%94%E4%BE%8B.md)
   + [Windows 下直接下载 Windows 10 ISO 镜像](https://github.com/hosxy/Settings/blob/master/Firefox/Windows%E4%B8%8B%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BDWindows10%20ISO%E9%95%9C%E5%83%8F.md)
+  + [开启 Firefox 内置的翻译功能](https://github.com/hosxy/Settings/blob/master/Firefox/%E5%BC%80%E5%90%AF%20Firefox%20%E5%86%85%E7%BD%AE%E7%9A%84%E7%BF%BB%E8%AF%91%E5%8A%9F%E8%83%BD.md)
 ## Rime 输入法
   + [Weasel 输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Rime/Weasel%E8%BE%93%E5%85%A5%E6%B3%95(Rime)%E7%94%9F%E5%83%BB%E5%AD%97%E8%BF%87%E6%BB%A4.md)
   
