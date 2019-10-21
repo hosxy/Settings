@@ -6,7 +6,7 @@
     + 将`browser.translation.detectLanguage` 的值改为 `true`。
     + 将`browser.translation.engine`的值改为 `Yandex` (注意大小写)。
     + 将`browser.translation.ui.show`的值改为 `true`。
-    + 将`browser.translation.yandex.apiKeyOverride`(没有就新建一个)的值改为你刚刚生成的那个APIKey的值(就是那个很长的字符串)。
+    + 将`browser.translation.yandex.apiKeyOverride`(没有就新建一个,类型为字符串)的值改为你刚刚生成的那个APIKey的值(就是那个很长的字符串)。
 4. 这时候已经可以用了，如果你细心的话你会发现在 Firefox 的设置->常规->语言下面多了一个`翻译网页内容`的选项。可以用这个来全局开关翻译功能。
 
 因为 Yandex 的服务器不在中国，所以速度不怎么好。<br>
