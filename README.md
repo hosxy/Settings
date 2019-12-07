@@ -4,7 +4,6 @@
    * ### cmd
        + [彩色 PROMP](https://github.com/hosxy/Settings/blob/master/Windows/cmd/彩色PROMPT.md)
        + [替换“在此处打开 powershell 窗口”为 cmd 窗口](https://github.com/hosxy/Settings/blob/master/Windows/cmd/替换“在此处打开powershell窗口”为cmd窗口.md)
-       + [解决批处理脚本命令行参数超过 10 个](https://github.com/hosxy/Settings/blob/master/Windows/cmd/%E8%A7%A3%E5%86%B3%E6%89%B9%E5%A4%84%E7%90%86%E8%84%9A%E6%9C%AC%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0%E8%B6%85%E8%BF%8710%E4%B8%AA.md)
        + [cmd 启动时自动执行批处理](https://github.com/hosxy/Settings/blob/master/Windows/cmd/cmd%E5%90%AF%E5%8A%A8%E6%97%B6%E8%87%AA%E5%8A%A8%E6%89%A7%E8%A1%8C%E6%89%B9%E5%A4%84%E7%90%86.md)
        + [windows下实现类似 linux 下 alias 的命令别名](https://github.com/hosxy/Settings/blob/master/Windows/cmd/windows%E4%B8%8B%E5%AE%9E%E7%8E%B0%E7%B1%BB%E4%BC%BClinux%E4%B8%8Balias%E7%9A%84%E5%91%BD%E4%BB%A4%E5%88%AB%E5%90%8D.md)
        + [修改 cmd 默认代码页为 UTF-8](https://github.com/hosxy/Settings/blob/master/Windows/cmd/%E4%BF%AE%E6%94%B9cmd%E9%BB%98%E8%AE%A4%E4%BB%A3%E7%A0%81%E9%A1%B5%E4%B8%BAUTF-8.md)
