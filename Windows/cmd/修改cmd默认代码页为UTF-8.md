@@ -3,6 +3,6 @@
 
 # 方法二
 此方法通过直接修改注册表实现：
-1. 按下win+r 组合键打开运行，输入：regedit 按下回车键打开注册表编辑器
+1. 按下`win+r`组合键打开运行，输入:`regedit`按下回车键打开注册表编辑器
 2. 定位到以下键值：`HKEY_CURRENT_USER\Console\%SystemRoot%_SYSTEM32_cmd.exe`
 3. 在右侧找到`CodePage`项，基数为`十六进制`，数值数据为:`fde9`(基数值也可为`十进制`，此时数据数值应为`65001`)
