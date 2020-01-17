@@ -26,5 +26,6 @@
   + [开启 Firefox 内置的翻译功能](https://github.com/hosxy/Settings/blob/master/Firefox/%E5%BC%80%E5%90%AF%20Firefox%20%E5%86%85%E7%BD%AE%E7%9A%84%E7%BF%BB%E8%AF%91%E5%8A%9F%E8%83%BD.md)
 ## Rime 输入法
   + [Weasel 输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Rime/Weasel%E8%BE%93%E5%85%A5%E6%B3%95(Rime)%E7%94%9F%E5%83%BB%E5%AD%97%E8%BF%87%E6%BB%A4.md)
+  + [小鹤双拼简体字输出](https://github.com/hosxy/Settings/blob/master/Rime/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC%E7%AE%80%E4%BD%93%E5%AD%97%E8%BE%93%E5%87%BA.md)
   
   
