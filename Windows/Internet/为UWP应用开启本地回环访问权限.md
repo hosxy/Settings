@@ -22,7 +22,7 @@ CheckNetIsolation.exe LoopbackExempt -d -n=<PackageFamilyName>
 ```
 使用以下命令可以删除所有应用的本地回环访问权限
 ```
-CheckNetIsolation.exe -c
+CheckNetIsolation.exe LoopbackExempt -c
 ```
 
 ## 4、查看可以拥有访问本地回环代理的应用列表
