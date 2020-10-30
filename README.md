@@ -24,6 +24,12 @@
   + [调整 Firefox 界面缩放比例](https://github.com/hosxy/Settings/blob/master/Firefox/%E8%B0%83%E6%95%B4Firefox%E7%95%8C%E9%9D%A2%E7%BC%A9%E6%94%BE%E6%AF%94%E4%BE%8B.md)
   + [Windows 下直接下载 Windows 10 ISO 镜像](https://github.com/hosxy/Settings/blob/master/Firefox/Windows%E4%B8%8B%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BDWindows10%20ISO%E9%95%9C%E5%83%8F.md)
   + [开启 Firefox 内置的翻译功能](https://github.com/hosxy/Settings/blob/master/Firefox/%E5%BC%80%E5%90%AF%20Firefox%20%E5%86%85%E7%BD%AE%E7%9A%84%E7%BF%BB%E8%AF%91%E5%8A%9F%E8%83%BD.md)
+  
+  
+## Microsoft Edge
+  + [关闭集锦功能](https://github.com/hosxy/Settings/blob/master/Microsoft%20Edge/%E5%85%B3%E9%97%AD%E9%9B%86%E9%94%A6%E5%8A%9F%E8%83%BD.md)
+  + [禁用cast投屏功能](https://github.com/hosxy/Settings/blob/master/Microsoft%20Edge)
+  
 ## Rime 输入法
   + [Weasel 输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Rime/Weasel%E8%BE%93%E5%85%A5%E6%B3%95(Rime)%E7%94%9F%E5%83%BB%E5%AD%97%E8%BF%87%E6%BB%A4.md)
   + [小鹤双拼简体字输出](https://github.com/hosxy/Settings/blob/master/Rime/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC%E7%AE%80%E4%BD%93%E5%AD%97%E8%BE%93%E5%87%BA.md)
