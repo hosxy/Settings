@@ -30,6 +30,10 @@
   + [关闭集锦功能](https://github.com/hosxy/Settings/blob/master/Microsoft%20Edge/%E5%85%B3%E9%97%AD%E9%9B%86%E9%94%A6%E5%8A%9F%E8%83%BD.md)
   + [禁用cast投屏功能](https://github.com/hosxy/Settings/blob/master/Microsoft%20Edge/%E7%A6%81%E7%94%A8cast%E6%8A%95%E5%B1%8F%E5%8A%9F%E8%83%BD.md)
   + [隐藏首次运行体验和初始屏幕](https://github.com/hosxy/Settings/blob/master/Microsoft%20Edge/%E9%9A%90%E8%97%8F%E9%A6%96%E6%AC%A1%E8%BF%90%E8%A1%8C%E4%BD%93%E9%AA%8C%E5%92%8C%E5%88%9D%E5%A7%8B%E5%B1%8F%E5%B9%95.md)
+
+### Microsoft Office
+  + [自定义 MS Office 安装位置](https://github.com/hosxy/Settings/blob/master/Microsoft%20Office/%E8%87%AA%E5%AE%9A%E4%B9%89%20MS%20Office%E7%9A%84%E5%AE%89%E8%A3%85%E4%BD%8D%E7%BD%AE.md)
+
 ## Rime 输入法
   + [Weasel 输入法(Rime)生僻字过滤](https://github.com/hosxy/Settings/blob/master/Rime/Weasel%E8%BE%93%E5%85%A5%E6%B3%95(Rime)%E7%94%9F%E5%83%BB%E5%AD%97%E8%BF%87%E6%BB%A4.md)
   + [小鹤双拼简体字输出](https://github.com/hosxy/Settings/blob/master/Rime/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC%E7%AE%80%E4%BD%93%E5%AD%97%E8%BE%93%E5%87%BA.md)
