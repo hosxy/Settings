@@ -7,6 +7,7 @@ MS Office 2016及以后微软修改了安装程序，不能再自定义安装位
 **注：以下操作请在安装 MS Office 以前操作**
 
 以安装 64 位的 MS Office 到`D:\Program Files\Microsoft Office`为例：
++ 在 `D:\Program Files\`下创建文件夹`Microsoft Office`
 + 以管理员身份运行一个 cmd(或者powershell) 窗口
 + 执行以下命令 `mklink /D "C:\Program Files\Microsoft Office" "D:\Program Files\Microsoft Office"`
 
