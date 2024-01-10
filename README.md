@@ -16,7 +16,6 @@
        + [禁止 Windows 10 自动更新](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/禁止Windows10自动更新.md)
        + [禁止 Windows10 遥测功能](https://github.com/hosxy/Settings/blob/master/Windows/Group%20Policy/%E7%A6%81%E7%94%A8%20Windows10%20%E7%9A%84%E9%81%A5%E6%B5%8B%E5%8A%9F%E8%83%BD.md)
    * ### Windows 官方下载
-       + [Windows 企业版镜像下载](https://github.com/hosxy/Settings/blob/master/Windows/Download/Windows企业版镜像下载地址.md)
        + [Windows7 官方集成补丁版2019](https://github.com/hosxy/Settings/blob/master/Windows/Download/Windows7官方集成补丁版.md)
   
 ## Firefox 
